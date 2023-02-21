@@ -3,20 +3,20 @@
 body {
 	font: 100%/1.4 Gill Sans, Verdana, Helvetica;
 	
-     background-color: #FFB312;
+     background-color: #0A2D80;
      margin: 0;
      padding: 0;
      color: #000;
 }
 .homePage {
-	background: #E88415;
+	background: #6190FF;
 }
 .container {
 	width: 960px;
 	margin: 0 auto;
 }
 .header {
-	background: #FF6E24;
+	background: #155AFF;
 	text-align: center;
 	margin: 0px;
 	padding: 5;
@@ -26,7 +26,7 @@ body {
 	
 }
 .nav {
-	background: #E83215;
+	background: #304880;
 	margin: 0px;
 	padding: 5;
 	float: left;
@@ -35,7 +35,7 @@ body {
 	text-align: center;
 }
 .content {
-	background:#FF1741;
+	background:#1049CC;
 	margin: 0px;
 	float: left;
 	width: 100%;
