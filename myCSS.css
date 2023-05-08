@@ -49,6 +49,9 @@ body {
 	height: 50px;
 	text-align: center;
 }
+
+p{color:blue}
+
 a:link {
      color: #000000;
 }
